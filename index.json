@@ -97,7 +97,17 @@
             "capabilities_keyvalue": "tgdsds"
         }
     ],
-    "abo_import_statement": [],
+    "abo_import_statement": [
+        {
+            "import_statement_id": "9",
+            "user_id": "1",
+            "app_id": "3",
+            "version_id": "135",
+            "import_statement": "dsadsadas; ",
+            "created": "2025-12-19 21:34:56",
+            "updated": null
+        }
+    ],
     "abo_maven_dependency": [],
     "abo_external_jar": [],
     "abo_global_variable": [],
