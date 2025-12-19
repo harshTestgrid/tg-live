@@ -8,7 +8,7 @@
         "app_id": "80",
         "version_name": "github",
         "version_description": "",
-        "cm_version_module": "175,176,177",
+        "cm_version_module": "180,181,182",
         "platform": "3",
         "ai_modal_id": "cotester_client_rxV7fBmjIxB8WxGgZZjBKbyF",
         "script_type": "3",
@@ -45,7 +45,7 @@
     },
     "abo_version_module": [
         {
-            "version_module_id": "175",
+            "version_module_id": "180",
             "version_id": "136",
             "parent_id": "0",
             "module_name": "TGSample",
@@ -69,11 +69,11 @@
             "abo_vm_network_assert": [],
             "abo_update": [
                 {
-                    "id": "857",
+                    "id": "862",
                     "user_id": "21",
                     "app_id": "80",
                     "version_id": "136",
-                    "version_module_id": "175",
+                    "version_module_id": "180",
                     "description": "",
                     "action_process": "add_version_module"
                 }
@@ -81,7 +81,7 @@
             "abo_version_pages": [
                 {
                     "version_page_id": 0,
-                    "version_module_id": "175",
+                    "version_module_id": "180",
                     "cm_resource": "",
                     "page_name": "Manually Added Resources ",
                     "abo_version_maps": []
@@ -89,7 +89,7 @@
             ]
         },
         {
-            "version_module_id": "176",
+            "version_module_id": "181",
             "version_id": "136",
             "parent_id": "0",
             "module_name": "tg01",
@@ -102,22 +102,22 @@
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2025-12-19 21:48:21",
+            "view_updated_date_time": null,
             "is_updated": "1",
-            "is_complie": "1",
-            "server_ids": "1",
-            "is_running": "1",
+            "is_complie": "0",
+            "server_ids": null,
+            "is_running": "0",
             "is_delete": "0",
             "abo_vm_test_case": [],
             "abo_version_proc": [],
             "abo_vm_network_assert": [],
             "abo_update": [
                 {
-                    "id": "858",
+                    "id": "863",
                     "user_id": "21",
                     "app_id": "80",
                     "version_id": "136",
-                    "version_module_id": "176",
+                    "version_module_id": "181",
                     "description": "",
                     "action_process": "add_version_module"
                 }
@@ -125,7 +125,7 @@
             "abo_version_pages": [
                 {
                     "version_page_id": 0,
-                    "version_module_id": "176",
+                    "version_module_id": "181",
                     "cm_resource": "",
                     "page_name": "Manually Added Resources ",
                     "abo_version_maps": []
@@ -133,52 +133,43 @@
             ]
         },
         {
-            "version_module_id": "177",
+            "version_module_id": "182",
             "version_id": "136",
             "parent_id": "0",
-            "module_name": "tgsuite",
+            "module_name": "tg02",
             "module_description": "",
             "count_resource": "0",
-            "cm_resource_pages": "150",
+            "cm_resource_pages": "",
             "cm_default_resource": "",
             "cm_test_function": "",
             "cm_test_case": "",
             "cm_test_case_ai": "",
             "cm_network": "",
             "cm_renderer": "",
-            "view_updated_date_time": "2025-12-19 21:49:00",
+            "view_updated_date_time": null,
             "is_updated": "1",
-            "is_complie": "1",
-            "server_ids": "1",
-            "is_running": "1",
+            "is_complie": "0",
+            "server_ids": null,
+            "is_running": "0",
             "is_delete": "0",
             "abo_vm_test_case": [],
             "abo_version_proc": [],
             "abo_vm_network_assert": [],
             "abo_update": [
                 {
-                    "id": "859",
+                    "id": "864",
                     "user_id": "21",
                     "app_id": "80",
                     "version_id": "136",
-                    "version_module_id": "177",
+                    "version_module_id": "182",
                     "description": "",
                     "action_process": "add_version_module"
                 }
             ],
             "abo_version_pages": [
                 {
-                    "version_page_id": "150",
-                    "version_module_id": "177",
-                    "cm_resource": "",
-                    "page_name": "testr",
-                    "created": "2025-12-19 21:49:19",
-                    "updated": "2025-12-19 21:49:19",
-                    "abo_version_maps": []
-                },
-                {
                     "version_page_id": 0,
-                    "version_module_id": "177",
+                    "version_module_id": "182",
                     "cm_resource": "",
                     "page_name": "Manually Added Resources ",
                     "abo_version_maps": []
