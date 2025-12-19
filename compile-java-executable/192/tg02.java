@@ -1,3 +1,3 @@
 @Listeners(TestListener.class)
-public class t02 {
+public class tg02 {
 }
