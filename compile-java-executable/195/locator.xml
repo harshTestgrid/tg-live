@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_dsad">
+    <element type="class">dasdaTGWEBCOMMACssClassTGWEBCOMMA0</element>
+  </locator>
+</locators>
