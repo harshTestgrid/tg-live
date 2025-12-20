@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<locators>
+  <locator name="ele_canada858">
+    <element type="xpath">//img[@alt='Canada']</element>
+    <element type="css">img[alt="Canada"]</element>
+    <element type="css">html &gt; body &gt; div:nth-of-type(2) &gt; div &gt; div &gt; div &gt; div &gt; div:nth-of-type(2) &gt; a &gt; imgTGWEBCOMMA5</element>
+    <element type="tag">imgTGWEBCOMMA0</element>
+  </locator>
+  <locator name="ele_data1">
+    <element type="xpath">//img[@alt='Facebook']</element>
+  </locator>
+</locators>

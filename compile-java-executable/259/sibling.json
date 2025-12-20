@@ -1,0 +1,78 @@
+{
+    "elements": [
+        {
+            "testcase_element": "ele_canada858",
+            "tg_text": "",
+            "sibling_selector": {
+                "parent": {
+                    "tag": "a",
+                    "tg_attributes": {
+                        "href": "https://www.bestbuy.ca/en-ca?intlreferer=https://www.bestbuy.com/&intlredir=https://www.bestbuy.com/",
+                        "class": "canada-link"
+                    }
+                },
+                "current_element_attrs": {
+                    "tag": "img",
+                    "tg_attributes": {
+                        "src": "https://www.bestbuy.com/~assets/bby/_intl/landing_page/images/maps/canada.svg",
+                        "alt": "Canada"
+                    }
+                }
+            },
+            "locator": [
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//img[@alt='Canada']",
+                    "locator_id": "3",
+                    "d_h": 96,
+                    "d_w": 184,
+                    "d_x": 468,
+                    "d_y": 301,
+                    "suggest_name": "canada858"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "img[alt=\"Canada\"]",
+                    "locator_id": "9",
+                    "d_h": 96,
+                    "d_w": 184,
+                    "d_x": 468.609375,
+                    "d_y": 301.109375,
+                    "suggest_name": "canada858"
+                },
+                {
+                    "locators": "CSS selector",
+                    "locators_val": "html > body > div:nth-of-type(2) > div > div > div > div > div:nth-of-type(2) > a > imgTGWEBCOMMA5",
+                    "locator_id": "9",
+                    "d_h": 96,
+                    "d_w": 184,
+                    "d_x": 468.609375,
+                    "d_y": 301.109375,
+                    "suggest_name": "canada858"
+                },
+                {
+                    "locators": "Xpath",
+                    "locators_val": "//a/img",
+                    "locator_id": "3",
+                    "d_h": 96,
+                    "d_w": 184,
+                    "d_x": 468.609375,
+                    "d_y": 301.109375,
+                    "suggest_name": "canada858"
+                },
+                {
+                    "locators": "Tag",
+                    "locators_val": "imgTGWEBCOMMA0",
+                    "locator_id": "8",
+                    "d_h": 96,
+                    "d_w": 184,
+                    "d_x": 468.609375,
+                    "d_y": 301.109375,
+                    "suggest_name": "canada858"
+                }
+            ],
+            "iframe_and_shadow_root_data": [],
+            "element_type": "xpath"
+        }
+    ]
+}
